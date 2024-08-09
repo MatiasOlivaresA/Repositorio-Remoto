@@ -1,2 +1,1 @@
-# Repositorio-Remoto
-Este repositorio esta creado en GitHub de manera remoto
+Repositorio creado desde GitHub y clonado en mi escritorio 
